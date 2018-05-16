@@ -4,5 +4,5 @@ $(document).ready(function(){
     });
     $("body").on('click', function(){
         $(this).css("color","white");
-    })
+    });
 });
