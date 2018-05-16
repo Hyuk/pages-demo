@@ -3,6 +3,6 @@ $(document).ready(function(){
        $(this).css("color","black"); 
     });
     $("body").on('click', function(){
-        $(this).css("color","white");
+        $(this).css("background-color","white");
     });
 });
